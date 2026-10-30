@@ -68,7 +68,7 @@ Genetic-Algorithms/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Mhsarabi/AI_Genetic-Algorithm.git
+git clone https://github.com/Mhsarabi/Genetic-Algorithms
 ```
 
 Navigate to the project directory:
